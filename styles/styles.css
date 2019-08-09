@@ -149,6 +149,11 @@ body {
       }
 /*end sliders*/
 
+/*start contact us*/
+.contact {
+    text-align:center;
+}
+
 /*Start Anchor/Hyperlink*/
 a:link,
 a:visited {
